@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    background: black;
+    color: white;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background: #111;
+}
+
+nav a {
+    margin-left: 15px;
+    color: white;
+    text-decoration: none;
+}
+
+.hero {
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #222;
+}
+
+.section {
+    padding: 40px;
+}
